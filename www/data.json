@@ -1,0 +1,50 @@
+{"Locations": [{
+    "name": "farah",
+    "type": "café",
+    "lng": 10.6370133161545,
+    "lat": 35.8115838438167,
+    "age": 3,
+    "offers": [{
+      "name": "farrahni",
+      "description": "Commencez votre journée avec une remise de 50% en café et cap-cake"
+    }, {
+      "name": "kayyafni",
+      "description": "remise sure chicha de 25%"
+    } ,{
+      "name": "jam3iti",
+      "description": "pendent les match une remise de 25% sur toute les consommation audéla de 5 dt"
+    }]
+  }, {
+    "name": "monta",
+    "type": "café",
+    "lng": 10.6374531984329,
+    "lat": 35.8111009645026,
+    "age": 4,
+    "offers": [{
+      "name": "pack-etudiant",
+      "description": "remise de 10% pour les etudiant"
+    }]
+  }, {
+    "name": "yassine",
+    "type": "food",
+    "lng": 10.635666847229,
+    "lat": 35.8101569487135,
+    "age": 6,
+    "offers": [{
+      "name": "chawerma",
+      "description": "tout plats chawarma sont soldée de 20%"
+    }]
+  }, {
+    "name": "bueono",
+    "type": "food",
+    "lng": 10.6368094682693,
+    "lat": 35.8132369219385,
+    "age": 5,
+    "offers": [{
+      "name": "speciale",
+      "description": "remise de 35% sur tout les plats"
+    }]
+  }
+
+]
+}
